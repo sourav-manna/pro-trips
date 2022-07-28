@@ -12,7 +12,7 @@ export default class App extends Component {
     super();
     this.state = {
       trips: [
-        { date: "2017-01-10", place: "Manali", type: "trek" },
+        { date: "2017-01-01", place: "Manali", type: "trek" },
         { date: "2017-04-05", place: "Mumbai", type: "club" },
         { date: "2017-02-09", place: "Marina", type: "tropic" },
         { date: "2020-10-21", place: "Coimbatore", type: "trek" }
