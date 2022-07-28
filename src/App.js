@@ -31,7 +31,8 @@ export default class App extends Component {
           <SideNav />
           <div className="workplace">
             <Routes>
-              <Route exact path="/" element={<Home trips={this.state.trips} />}/>
+              <Route path="/" element={<Home trips={this.state.trips} />}/>
+              <Route path="/pro-trips" element={<Home trips={this.state.trips} />}/>
               <Route path="/addTrip" element={<CreateTrip addTrip={this.addTrip} trips={this.state.trips} />} />
               <Route path="/Trips"element={ <DisplayTrip trips={this.state.trips} />} />
             </Routes>
