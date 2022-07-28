@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/pro-trips/static/css/main.5dd1395f.css",
+    "main.js": "/pro-trips/static/js/main.604d101e.js",
+    "index.html": "/pro-trips/index.html",
+    "main.5dd1395f.css.map": "/pro-trips/static/css/main.5dd1395f.css.map",
+    "main.604d101e.js.map": "/pro-trips/static/js/main.604d101e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5dd1395f.css",
+    "static/js/main.604d101e.js"
+  ]
+}
